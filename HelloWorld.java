@@ -8,5 +8,9 @@ public class HelloWorld {
 		System.out.println("Hello World");
 
 	}
+	
+	private void workday() {
+		System.out.println("Hello Workday");
+	}
 
 }
