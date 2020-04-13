@@ -11,6 +11,15 @@ public class HelloWorld {
 	
 	private void workday() {
 		System.out.println("Hello Workday");
+		System.out.println("Hello Workday Modified");
+		System.out.println("Hello Workday 2nd time Modified");
+		System.out.println("Hello Workday 3rd time Modified");
+		System.out.println("Hello Workday 4th time Modified");
+		System.out.println("Hello Workday 5th time Modified");
+		System.out.println("Hello Pre Hire Modified");
+		System.out.println("Hello Pre Hire 2nd time Modified");
+		System.out.println("Hello Workday 6th time Modified");
+		System.out.println("Hello Pre Hire 3rd time Modified");
 	}
 
 }
