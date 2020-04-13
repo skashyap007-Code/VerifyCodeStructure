@@ -12,7 +12,6 @@ public class HelloWorld {
 	private void workday() {
 		System.out.println("Hello Workday");
 		System.out.println("Hello Workday Modified");
-		System.out.println("Pre Hire Modified");
 	}
 
 }
